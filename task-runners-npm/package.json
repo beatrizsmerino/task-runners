@@ -1,0 +1,11 @@
+{
+	"name": "task-runners-npm",
+	"version": "1.0.0",
+	"description": "Task runners with npm scripts",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
+	"license": "ISC"
+}
