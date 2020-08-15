@@ -1,11 +1,19 @@
 {
 	"name": "task-runners-npm",
 	"version": "1.0.0",
-	"description": "Task runners with npm scripts",
+	"description": "Task runners with NPM packages and NODE scripts",
+	"author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
+	"license": "ISC",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Hello word!\"",
+		"static:img:compressed": "node ./static/bin/compress-images.js"
 	},
-	"author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
-	"license": "ISC"
+	"dependencies": {},
+	"devDependencies": {
+		"chalk": "^4.1.0",
+		"compress-images": "^1.9.3",
+		"gifsicle": "^5.1.0",
+		"pngquant-bin": "^6.0.0"
+	}
 }

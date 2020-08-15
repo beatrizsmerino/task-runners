@@ -8,8 +8,7 @@
 
 ### List of task runners:
 
--   [ ] Node
--   [ ] NPM
+-   [ ] [NPM packages and NODE scripts](https://github.com/beatrizsmerino/task-runners/tree/feature/task-runners-npm/task-runners-npm)
 -   [ ] Gulp
 -   [ ] Grunt
 -   [ ] Webpack
