@@ -4,7 +4,7 @@
 	"description": "Task runners with npm scripts",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo '👉 RUN TASK test' \"Hello word!\""
+		"test": "echo \"Hello word!\"",
 	},
 	"author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
 	"license": "ISC"
