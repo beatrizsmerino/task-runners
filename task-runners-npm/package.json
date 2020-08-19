@@ -13,7 +13,6 @@
 	"devDependencies": {
 		"chalk": "^4.1.0",
 		"compress-images": "^1.9.3",
-		"gifsicle": "^5.1.0",
-		"pngquant-bin": "^3.1.1"
+		"gifsicle": "^5.1.0"
 	}
 }

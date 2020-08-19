@@ -46,7 +46,7 @@ function compressImages(inputPath, outputPath) {
 			onProgress,
 			enginesSetup: {
 				jpg: { engine: 'mozjpeg', command: ['-quality', '60'] },
-				png: { engine: 'pngquant', command: ['--quality=20-50'] },
+				png: { engine: 'tinify', key: 'XXXXXXXXX', command: false },
 				svg: { engine: 'svgo', command: ['--multipass'] },
 				gif: { engine: 'gifsicle', command: ['--colors', '64', '--use-col=web'] },
 			}
