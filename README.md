@@ -1,6 +1,8 @@
-![shieldsIO](https://img.shields.io/github/issues/beatrizsmerino/task-runners)
-![shieldsIO](https://img.shields.io/github/forks/beatrizsmerino/task-runners)
-![shieldsIO](https://img.shields.io/github/stars/beatrizsmerino/task-runners)
+![GitHub last commit](https://img.shields.io/github/last-commit/beatrizsmerino/task-runners)   
+![GitHub issues](https://img.shields.io/github/issues/beatrizsmerino/task-runners)
+![GitHub forks](https://img.shields.io/github/forks/beatrizsmerino/task-runners)
+![GitHub stars](https://img.shields.io/github/stars/beatrizsmerino/task-runners)
+![GitHub watchers](https://img.shields.io/github/watchers/beatrizsmerino/task-runners)
 
 # TASK RUNNERS
 
