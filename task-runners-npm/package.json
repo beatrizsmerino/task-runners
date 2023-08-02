@@ -1,6 +1,6 @@
 {
-	"name": "task-runners-npm",
 	"version": "1.0.0",
+	"name": "task-runners-npm",
 	"description": "Task runners with NPM packages and NODE scripts",
 	"author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
 	"license": "ISC",
