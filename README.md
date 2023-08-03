@@ -1,3 +1,4 @@
+![GitHub dependabot](https://img.shields.io/badge/dependabot-enabled-025e8c?logo=Dependabot)
 ![GitHub last commit](https://img.shields.io/github/last-commit/beatrizsmerino/task-runners)
 ![GitHub issues](https://img.shields.io/github/issues/beatrizsmerino/task-runners)
 ![GitHub forks](https://img.shields.io/github/forks/beatrizsmerino/task-runners)
