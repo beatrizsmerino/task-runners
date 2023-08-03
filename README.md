@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/beatrizsmerino/task-runners)
 ![GitHub watchers](https://img.shields.io/github/watchers/beatrizsmerino/task-runners)
 
-# TASK RUNNERS
+# Task runners
 
 ## Description
 
