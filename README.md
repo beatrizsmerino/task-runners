@@ -6,11 +6,11 @@
 
 # Task runners
 
-## Description
+## 🎯 Description
 
 Git repository for task runners testing
 
-## Content
+## 🧩 Content
 
 List of task runners:
 
