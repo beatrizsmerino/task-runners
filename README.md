@@ -14,18 +14,10 @@ Git repository for task runners testing
 
 ### List of task runners:
 
--   [ ] Node
--   [ ] NPM
--   [ ] Gulp
--   [ ] Grunt
--   [ ] Webpack
-
-![Image of npm](doc/assets/npm/cover-npm.svg)
-
-![Image of node](doc/assets/node/cover-node.svg)
-
-![Image of grunt](doc/assets/grunt/cover-grunt.svg)
-
-![Image of gulp](doc/assets/gulp/cover-gulp.svg)
-
-![Image of webpack](doc/assets/webpack/cover-webpack.svg)
+| Check | Nombre  | Imagen                                                    |
+| ----- | ------- | --------------------------------------------------------- |
+| [ ]   | Node    | ![Image of node](doc/assets/node/cover-node.svg)          |
+| [ ]   | NPM     | ![Image of npm](doc/assets/npm/cover-npm.svg)             |
+| [ ]   | Gulp    | ![Image of gulp](doc/assets/gulp/cover-gulp.svg)          |
+| [ ]   | Grunt   | ![Image of grunt](doc/assets/grunt/cover-grunt.svg)       |
+| [ ]   | Webpack | ![Image of webpack](doc/assets/webpack/cover-webpack.svg) |
