@@ -16,8 +16,8 @@ Git repository for task runners testing
 
 | Check | Nombre  | Imagen                                                       |
 | ----- | ------- | ------------------------------------------------------------ |
-| [ ]   | Node    | <img src="doc/assets/node/cover-node.svg" width="200">       |
-| [ ]   | NPM     | <img src="doc/assets/npm/cover-npm.svg" width="200">         |
-| [ ]   | Gulp    | <img src="doc/assets/gulp/cover-gulp.svg" width="200">       |
-| [ ]   | Grunt   | <img src="doc/assets/grunt/cover-grunt.svg" width="200">     |
-| [ ]   | Webpack | <img src="doc/assets/webpack/cover-webpack.svg" width="200"> |
+| ⬜    | Node    | <img src="doc/assets/node/cover-node.svg" width="200">       |
+| ⬜    | NPM     | <img src="doc/assets/npm/cover-npm.svg" width="200">         |
+| ⬜    | Gulp    | <img src="doc/assets/gulp/cover-gulp.svg" width="200">       |
+| ⬜    | Grunt   | <img src="doc/assets/grunt/cover-grunt.svg" width="200">     |
+| ⬜    | Webpack | <img src="doc/assets/webpack/cover-webpack.svg" width="200"> |
