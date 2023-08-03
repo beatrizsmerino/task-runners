@@ -14,7 +14,7 @@ Git repository for task runners testing
 
 List of task runners:
 
-| Check | Nombre  | Imagen                                                       |
+| Check | Name    | Image                                                        |
 | ----- | ------- | ------------------------------------------------------------ |
 | ⬜    | Node    | <img src="doc/assets/node/cover-node.svg" width="200">       |
 | ⬜    | NPM     | <img src="doc/assets/npm/cover-npm.svg" width="200">         |
