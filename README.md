@@ -6,7 +6,7 @@
 
 # TASK RUNNERS
 
-## Git repository for task runners testing
+Git repository for task runners testing
 
 ### List of task runners:
 
